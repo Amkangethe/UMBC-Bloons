@@ -1,1 +1,4 @@
-# UMBC-Bloons
+Bloons Tower Defense (also known as Bloons TD or BTD) is a series of tower defense games under the Bloons series created and produced by Ninja Kiwi. The game was initially developed as a browser game, built upon the (now unusable) Adobe Flash platform and released in mid-2007. Later games in the series expanded to support various mobile platforms, including Android, iOS, Windows Phone, PlayStation Portable, Nintendo DSi, Windows, Linux and MacOS. Games in the Bloons series older than Bloons TD 6 are available through the Ninja Kiwi Archive on Steam.
+
+
+The main objective of Bloons TD is to prevent Bloons (in-game name for balloons) from reaching the end of a defined track on a map that consists of an entrance and exit for the bloons. The game is a tower defense game and thus the player can choose various types of towers to place around the track to defend against the bloons, gaining 1 in-game dollar for every layer of bloon popped. If a bloon reaches the end of a path, the player loses lives. Once these lives are all depleted, the game ends. The bloons always follow the path on the track until they either reach the exit or are popped.
